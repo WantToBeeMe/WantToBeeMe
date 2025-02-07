@@ -17,7 +17,8 @@ Anyways, here are 2 cool projects you can look at!
   <img src="images/WheelWizard_Title.png" alt="Wheel Wizard Logo" width="500"/>
 </p>
 
-This is a Auto updator and Mod manager for Mariokart Wii online, more specifically, for the distro Retro Rewind. We created it for the sole purpose of convenience, because with this app we make it possible to automatically have everything set up in a few clicks. It also works seemlessly together with Gamebanana. With 1 click you can download new mods.
+This is a Auto updator and Mod manager for Mariokart Wii online, more specifically, for the distro Retro Rewind. We created it for the sole purpose of convenience, because with this app we make it possible to automatically have everything set up in a few clicks.  
+It also works seemlessly together with Gamebanana. With 1 click you can download new mods.
 
 Links: 
 - [Repository](https://github.com/patchzyy/WheelWizard)
@@ -34,7 +35,8 @@ Links:
   <img src="images/MoldBreaker_Title.png" alt="Mold Breaker Logo" width="650"/>
 </p>
 
-**Mold Breaker: Rise of the loaf** is a game created by me and 18 other students. It is a stylish 3D platformer about a Platapus made from bread. In fact, the entire world is made out of bread. However, the world is threatend to be consumed by the mold, and so you have to save if from not molding all the pieces of bread.
+**Mold Breaker: Rise of the loaf** is a game created by me and 18 other students. It is a stylish 3D platformer about a Platapus made from bread. In fact, the entire world is made out of bread.   
+However, the world is threatend to be consumed by the mold, and so you have to save if from not molding all the pieces of bread.
 
 Links: 
 - [Repository](https://github.com/SillyBusinessInc/Moldbreaker)
