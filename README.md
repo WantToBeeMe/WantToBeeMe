@@ -1,7 +1,8 @@
 ## Hey there  
 
-I am WantToBeeMe, uhm... yea... thats about it.
-Here are 2 cool projects I made
+I am WantToBeeMe, and I am really good stopping my personal projects before they are finished.
+uhmmm... yea... nothing more to add i suppose.
+Anyways, here are 2 cool projects you can look at!
 
 # Wheel Wizard
 <p align="center">
