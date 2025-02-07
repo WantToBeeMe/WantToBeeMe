@@ -1,7 +1,7 @@
 ## Hey there  
 
-I am WantToBeeMe, uhm... yea.. thats about it.
-Here are 2 cool projects i made
+I am WantToBeeMe, uhm... yea... thats about it.
+Here are 2 cool projects I made
 
 # Wheel Wizard
 <p align="center">
