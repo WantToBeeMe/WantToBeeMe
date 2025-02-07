@@ -1,8 +1,8 @@
 ## Hey there  
 
-I am WantToBeeMe, and I am really good stopping my personal projects before they are finished.
-uhmmm... yea... nothing more to add i suppose.
-Anyways, here are 2 cool projects you can look at!
+I am WantToBeeMe, and I am really good stopping my personal projects before they are finished.  
+uhmmm... yea... nothing more to add i suppose.  
+Anyways, here are 2 cool projects you can look at!  
 
 # Wheel Wizard
 <p align="center">
