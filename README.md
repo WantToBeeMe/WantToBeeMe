@@ -38,7 +38,7 @@ Links:
 </p>
 
 **Mold Breaker: Rise of the loaf** is a game created by me and 18 other students. It is a stylish 3D platformer about a Platapus made of bread. In fact, the entire world is made out of bread.   
-However, the world is threatend to be consumed by the mold, and so you have to save if from not molding all the pieces of bread.
+However, the world is threatend to be consumed by the mold. You have to save if from the mold.
 
 Links: 
 - [Repository](https://github.com/SillyBusinessInc/Moldbreaker)
