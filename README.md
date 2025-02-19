@@ -6,8 +6,8 @@ Anyways, here are 2 cool projects you can look at!
 
 # Wheel Wizard
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/patchzyy/WheelWizard?color=green&style=for-the-badge" alt="GitHub release (latest by date)" />
-  <img src="https://img.shields.io/github/downloads/patchzyy/WheelWizard/total?color=green&style=for-the-badge" alt="GitHub Downloads (all assets, all releases)" />
+  <img src="https://img.shields.io/github/v/release/TeamWheelWizard/WheelWizard?color=green&style=for-the-badge" alt="GitHub release (latest by date)" />
+  <img src="https://img.shields.io/github/downloads/TeamWheelWizard/WheelWizard/total?color=green&style=for-the-badge" alt="GitHub Downloads (all assets, all releases)" />
   <a href="https://discord.gg/vZ7T2wJnsq">
     <img src="https://img.shields.io/discord/1253384439937896560?color=7289da&style=for-the-badge" alt="Discord" />
   </a>
@@ -21,7 +21,7 @@ This is a Auto updator and Mod manager for Mariokart Wii online, more specifical
 It also works seemlessly together with Gamebanana. With 1 click you can download new mods.
 
 Links: 
-- [Repository](https://github.com/patchzyy/WheelWizard)
+- [Repository](https://github.com/TeamWheelWizard/WheelWizard)
 - [Discord](https://discord.gg/vZ7T2wJnsq)
 
 
