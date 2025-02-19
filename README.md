@@ -17,7 +17,7 @@ Anyways, here are 2 cool projects you can look at!
   <img src="images/WheelWizard_Title.png" alt="Wheel Wizard Logo" width="500"/>
 </p>
 
-This is a Auto updator and Mod manager for Mariokart Wii online, more specifically, for the distro Retro Rewind. We created it for the sole purpose of convenience, because with this app we make it possible to automatically have everything set up in a few clicks.  
+**Wheel Wizard** is an auto updator and Mod manager for Mariokart Wii online. More specifically, for the distro Retro Rewind. We created it for the sole purpose of convenience, because with this app we make it possible to automatically have everything set up in a few clicks.  
 It also works seemlessly together with Gamebanana. With 1 click you can download new mods.
 
 Links: 
