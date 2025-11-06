@@ -1,6 +1,6 @@
 ## Hey there  
 
-I am WantToBeeMe, and I am really good stopping my personal projects before they are finished.  
+I am WantToBeeMe, and I am really good at stopping my personal projects before they are finished.  
 uhmmm... yea... nothing more to add I suppose.  
 Anyways, here are 2 cool projects you can look at!  
 
